@@ -9,11 +9,11 @@ country: "USA"      # lowercase two-letter ISO country code such as "fr" (see ht
 language: "English"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "41.079543"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-73.822763"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "May 5, 2026"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Oct 19, 2026"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "8:30AM - 4:00PM EST"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
-startdate: 2026-05-05      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2024-06-05-31        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Sheldon McKay, Marina Lehmkuhl"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+startdate: 2026-10-19      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2026-10-19        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Sheldon McKay"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Zebulun Arendsee", "Huan Jin", "Ayush Saxena"] 
 email: ["sheldon.mckay@regeneron.com"]  
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -329,7 +329,7 @@ change the value of `carpentry` to `incubator`.
   </tr>
   <tr> 
     <td>09:00</td>
-    <td>Python Part 1 Shedon McKay</td>
+    <td>Python Part 1 Sheldon McKay</td>
   </tr>
   <tr>
     <td>12:00</td>
@@ -337,7 +337,7 @@ change the value of `carpentry` to `incubator`.
   </tr>
   <tr>
     <td>12:30</td>
-    <td>Python Part 2 Marina Lehmkuhl</td>
+    <td>Python Part 2 Sheldon McKay</td>
   </tr>
   <tr> 
     <td>14:45</td>  
